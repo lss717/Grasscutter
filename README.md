@@ -18,6 +18,12 @@
 * Spawning monsters via console
 * Inventory features (receiving items/characters, upgrading items/characters, etc)
 
+## Foreward
+
+### **Grasscutter beyond the latest release will have no handholding in terms of instructions.**
+
+Grasscutter has not been actively maintained and currently (as of January 12th, 2025) only works up to version REL4.0.1 (introduction to Fontaine). If you have a beta version/unofficial version of Grasscutter, this guide should theoretically still work, however, we will not provide official support these versions. You can still try your luck in the Discord if you are stuck, but please don't act entitled.
+
 ## Quick setup guide
 
 **Note**: For support please join our [Discord](https://discord.gg/T5vZU6UyeG).
@@ -29,6 +35,7 @@
 - Get game version REL4.0.x (If you don't have a 4.0.x client, you can find it here and open any of the links to download it):
 [4.0.x Client-github](https://github.com/JRSKelvin/GenshinRepository/blob/main/Version%204.0.0.md)
 [4.0.x Client-cloud drive](https://www.123pan.com/s/HoqUVv-U7SBA.html)
+- ***UPDATE JAN 12, 2025: YOU CANNOT MIX AND MATCH GAME VERSIONS AND SERVER VERSIONS, PLEASE DOWNLOAD THE CORRECT VERSION OF GRASSCUTTER FOR YOUR VERSION OF THE GAME.***
 
 - Download the [latest Cultivation version](https://github.com/Grasscutters/Cultivation/releases/latest). Use the `.msi` installer.
 - After opening Cultivation (as admin), press the download button in the upper right corner. 
